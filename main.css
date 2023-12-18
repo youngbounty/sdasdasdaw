@@ -1,0 +1,232 @@
+html {
+    font-family: 'Dela Gothic One';
+}
+#wrapper {
+    
+    margin: 0;
+    width: 100%;
+    
+    }
+    header {
+    background-color: rgb(0, 0, 0);
+    max-width: 100%;
+    height: 20%;
+   stroke: aqua;
+   border-top: 7px solid red;
+   
+ 
+    
+    }
+    div {
+        max-width: 100%;
+    }
+    .navbar {
+        width: 100%;
+        margin: auto;
+        
+    }
+    .navbar-nav {
+        
+    }
+    .navbar-nav a{
+        text-decoration: none;
+        color: rgb(0, 0, 0);
+        text-transform: uppercase;
+        font-size: 25px;
+    }
+    .navbar-nav a:hover {
+        color: red;
+        scale: 110%; 
+        transition: all 0.2s ease-in-out;
+        
+    }
+    .navbar-item {
+        display: flex;
+        justify-content: space-between;
+        margin: auto;
+        
+    }
+    .navbar-link {
+        height: 150px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .lg {
+        padding-left: 10px;   
+        border-right: 7px solid red;    
+    }
+    .navbar-menu {
+        
+        margin: auto;
+        height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 7px solid red;
+    
+    }
+    .navbar-item2 {
+        display: flex;
+        justify-content: space-between;
+        margin: auto;
+         
+        
+        
+    }
+    #qwas {
+        height: 50%;
+        width: 30%;
+        display: none;
+    }
+    .line {
+        border-color: red;
+        background-color: red;
+        width: 0.5%;
+       height: 154px;
+    margin-right: 50px;
+    border-width: 4px;
+    }
+    .by {
+        margin-left: 50px;
+        height: 90%;
+        width: 105%;
+       
+        padding: 0px;
+    }
+    .by:hover {
+        filter: drop-shadow(0px 10px red);
+        transition: 0.3s ease-in-out;
+        color: red;
+        scale: 105%; 
+        transition: all 0.2s ease-in-out;
+    }
+    .navbar-text {
+        text-decoration: none;
+        background-color: rgb(255, 255, 255);
+        font-family: 'Dela Gothic One';
+        width: 250px;
+        height: 50px;
+        border-radius: 20px;
+        color: rgb(0, 0, 0);
+        text-transform: uppercase;
+        font-size: 25px;
+        text-decoration: black;
+    }
+   .navbar-text:hover {
+    filter: drop-shadow(0px 10px red);
+    transition: 0.3s ease-in-out;
+    color: red;
+    scale: 105%; 
+    transition: all 0.2s ease-in-out;
+    
+   }
+   .navbar-item:hover {
+    filter: drop-shadow(0px 10px red);
+    transition: 0.3s ease-in-out;
+    color: red;
+    scale: 105%; 
+    transition: all 0.2s ease-in-out;
+    
+   }
+  .navbar-text  {
+    font-size:25px;
+   border: 3px solid red;
+   
+    }
+    body {
+        background-color: rgb(46, 7, 7);
+    }
+    .podval {
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+    }
+    footer {
+ background-color: black;
+        align-items: center;
+        justify-content: center;
+        height: 25%;
+    }
+    .r1 {
+        margin-left: 2%;
+        margin-top: 15px;
+        width: 90%;
+        border-radius: 60px;
+        justify-content: center;
+        align-items: center;
+        border-width: 10px;
+        border-style: solid;
+        border-color: black;
+        
+    }
+    .r1:hover {
+        width: 95%;
+        justify-content: center;
+        align-items: center;
+        filter: opacity(50%) ;
+        border-color: rgb(255, 0, 0);
+        border-bottom: 30px solid rgb(255, 0, 0);
+        transition: all 0.2s ease-in-out;
+    }
+    .rabsp {
+        list-style: none;
+    }
+   .rab {
+    display: flex;
+    
+   }
+   .container h1 {
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    -webkit-text-stroke: 0.1px #ff0000;
+    
+    
+    text-align: center;
+   }
+   .r2 {
+    margin-left: 2%;
+        margin-top: 50px;
+        width: 90%;
+        border-radius: 60px;
+        justify-content: center;
+        align-items: center;
+        border-width: 10px;
+        border-style: solid;
+        border-color: black;
+   }
+   .r2:hover {
+    width: 95%;
+        justify-content: center;
+        align-items: center;
+        filter: opacity(50%) ;
+        border-color: rgb(255, 0, 0);
+        border-bottom: 30px solid rgb(255, 0, 0);
+        transition: all 0.2s ease-in-out;
+   }
+   .container2 h1 {
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    -webkit-text-stroke: 0.1px #ff0000;
+    
+    
+    text-align: center;
+   }
+   .container3 h1 {
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    -webkit-text-stroke: 0.1px #ff0000;
+    
+    
+    text-align: center;
+   }
+   .container4 h1 {
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    -webkit-text-stroke: 0.1px #ff0000;
+    
+    
+    text-align: center;
+   }
